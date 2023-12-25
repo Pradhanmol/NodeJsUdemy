@@ -1,0 +1,26 @@
+== From Section 1 ==
+
+Lecture 1 
+
+In this note, the speaker introduces a Node.js, Express, and MongoDB bootcamp, outlining the course structure and what participants will learn. The course is divided into four main parts:
+
+Part One: Introduction to Node.js Basics
+Sections: 2
+Content: Building a small project to teach foundational Node.js development concepts, providing a strong base for the course.
+Part Two: Backend Development Fundamentals
+Sections: 3 and 4
+Content: Covers backend development principles, delving into how Node.js operates. It's a mix of theory and coding lectures aimed at providing unique knowledge.
+Part Three: Real-World Natours Project (API Development)
+Sections: 6 to 11
+Content: Designing and building the API using Express framework, MongoDB, and Mongoose. Topics include routing, CRUD operations, data modeling, authentication, security, and more.
+Part Four: Real-World Natours Project (Rendered Website)
+Sections: 12 and 13
+Content: Creating a rendered website with PUG templates. Also includes integrating features like credit card payments, file uploads, email sending, and deploying the application to production using Heroku.
+Approach to Taking the Course:
+Coding Along: Encouraged in all coding videos to build projects together.
+Challenges: Some videos include challenges for independent problem-solving.
+Note-Taking: Advised to take comprehensive notes to retain knowledge.
+Course Completion: Suggested to go through the entire course for a comprehensive understanding, but skipping sections is allowed if not needed.
+Asking Questions and Getting Help:
+Udemy Q&A: Participants can ask questions or seek assistance in the course's Q&A area. Detailed inquiries ensure prompt and helpful support from the instructor or their team.
+The instructor emphasizes coding along, independent problem-solving through challenges, thorough note-taking, and utilizing the Q&A area for support. The goal is to equip participants with the skills to develop modern, powerful backend applications using Node.js and related technologies.
